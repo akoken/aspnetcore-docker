@@ -1,4 +1,4 @@
-# Running ASP.NET Core in Docker 
+# Running ASP.NET Core Application in Docker 
 
 Basic usage
 -----------
